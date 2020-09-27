@@ -15,25 +15,25 @@ INSERT INTO department(id,name) VALUES (10,'Finance');
 INSERT INTO department(id,name) VALUES (11,'Accounting');
 
 /*Data for the table role */
-INSERT INTO role(id,title,salary,department_id) VALUES (1,'Public Accountant',4200.00,11);
-INSERT INTO role(id,title,salary,department_id) VALUES (2,'Accounting Manager',8200.00,10);
-INSERT INTO role(id,title,salary,department_id) VALUES (3,'Administrative Assistant',3000.00,1);
-INSERT INTO role(id,title,salary,department_id) VALUES (4,'President',20000.00,9);
-INSERT INTO role(id,title,salary,department_id) VALUES (5,'Vice President',15000.00,9);
-INSERT INTO role(id,title,salary,department_id) VALUES (6,'Accountant',4200.00,10);
-INSERT INTO role(id,title,salary,department_id) VALUES (7,'Finance Manager',8200.00,10);
-INSERT INTO role(id,title,salary,department_id) VALUES (8,'HR Representative',4000.00,4);
-INSERT INTO role(id,title,salary,department_id) VALUES (9,'Programmer',4000.00,6);
-INSERT INTO role(id,title,salary,department_id) VALUES (10,'Marketing Manager',9000.00,2);
-INSERT INTO role(id,title,salary,department_id) VALUES (11,'Marketing Representative',4000.00,2);
-INSERT INTO role(id,title,salary,department_id) VALUES (12,'PR Representative',4500.00,7);
-INSERT INTO role(id,title,salary,department_id) VALUES (13,'Purchasing Clerk',2500.00,3);
-INSERT INTO role(id,title,salary,department_id) VALUES (14,'Purchasing Manager',8000.00,3);
-INSERT INTO role(id,title,salary,department_id) VALUES (15,'Sales Manager',10000.00,8);
-INSERT INTO role(id,title,salary,department_id) VALUES (16,'Sales Representative',6000.00,8);
-INSERT INTO role(id,title,salary,department_id) VALUES (17,'Jr Developer',2500.00,6);
-INSERT INTO role(id,title,salary,department_id) VALUES (18,'Staff Developer',2000.00,6);
-INSERT INTO role(id,title,salary,department_id) VALUES (19,'Engineering Manager',5500.00,6);
+INSERT INTO role(id,title,salary,department_id) VALUES (1,'Public Accountant',60000.00,11);
+INSERT INTO role(id,title,salary,department_id) VALUES (2,'Accounting Manager',82000.00,10);
+INSERT INTO role(id,title,salary,department_id) VALUES (3,'Administrative Assistant',42000.00,1);
+INSERT INTO role(id,title,salary,department_id) VALUES (4,'President',300000.00,9);
+INSERT INTO role(id,title,salary,department_id) VALUES (5,'Vice President',210000.00,9);
+INSERT INTO role(id,title,salary,department_id) VALUES (6,'Accountant',58000.00,10);
+INSERT INTO role(id,title,salary,department_id) VALUES (7,'Finance Manager',92000.00,10);
+INSERT INTO role(id,title,salary,department_id) VALUES (8,'HR Representative',51000.00,4);
+INSERT INTO role(id,title,salary,department_id) VALUES (9,'Programmer',97000.00,6);
+INSERT INTO role(id,title,salary,department_id) VALUES (10,'Marketing Manager',90000.00,2);
+INSERT INTO role(id,title,salary,department_id) VALUES (11,'Marketing Representative',74000.00,2);
+INSERT INTO role(id,title,salary,department_id) VALUES (12,'PR Representative',65000.00,7);
+INSERT INTO role(id,title,salary,department_id) VALUES (13,'Purchasing Clerk',55000.00,3);
+INSERT INTO role(id,title,salary,department_id) VALUES (14,'Purchasing Manager',80000.00,3);
+INSERT INTO role(id,title,salary,department_id) VALUES (15,'Sales Manager',850000.00,8);
+INSERT INTO role(id,title,salary,department_id) VALUES (16,'Sales Representative',64000.00,8);
+INSERT INTO role(id,title,salary,department_id) VALUES (17,'Jr Developer',9100.00,6);
+INSERT INTO role(id,title,salary,department_id) VALUES (18,'Staff Developer',102000.00,6);
+INSERT INTO role(id,title,salary,department_id) VALUES (19,'Engineering Manager',12500.00,6);
 
 /* Data for the table employee */
 /* Managers First */
