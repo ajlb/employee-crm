@@ -10,8 +10,7 @@ https://github.com/n-lambert/employee-crm
 
 This project is a command line interface program running in Node.js. It uses a MySQL database to organize employee and department data, and offers the ability to edit that data through the terminal. It uses inquirer.js to interact with user input.
 
-Walkthrough:
-[![screenshot of Employee Tracker](./assets/img/screencap.gif)]
+![screenshot of Employee Tracker](./assets/img/screencap.gif)
 
 ## Installation:
 
